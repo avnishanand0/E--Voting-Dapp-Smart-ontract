@@ -4,13 +4,17 @@ Block chain enabled E - Voting
 
 Install these prerequisites to follow :
 
-* [NPM](https://nodejs.org): https://nodejs.org
+* [NPM](https://nodejs.org)
+  https://nodejs.org
 
-* [Truffle](https://github.com/trufflesuite/truffle): https://github.com/trufflesuite/truffle
+* [Truffle](https://github.com/trufflesuite/truffle)
+  https://github.com/trufflesuite/truffle
 
-* [Ganache](http://truffleframework.com/ganache/): http://truffleframework.com/ganache/
+* [Ganache](http://truffleframework.com/ganache/)
+  http://truffleframework.com/ganache/
 
-* [Metamask](https://metamask.io/): https://metamask.io/
+* [Metamask](https://metamask.io/)
+  https://metamask.io/
 
 1) Clone the project
 
