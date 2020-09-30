@@ -4,7 +4,7 @@ Block chain enabled E - Voting
 
 Install these prerequisites to follow :
 
-* NPM: https://nodejs.org
+* [NPM](https://nodejs.org): https://nodejs.org
 
 * Truffle: https://github.com/trufflesuite/truffle
 
@@ -12,14 +12,14 @@ Install these prerequisites to follow :
 
 * Metamask: https://metamask.io/
 
-1)Clone the project
+1) Clone the project
 
-2)Install dependencies
+2) Install dependencies
 
-3)Start Ganache
+3) Start Ganache
 
-4)Compile & Deploy Election Smart Contract
+4) Compile & Deploy Election Smart Contract
 
-5)Configure Metamask
+5) Configure Metamask
 
-6)Run the Front End Application
+6) Run the Front End Application
